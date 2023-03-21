@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crack-meridian-254715",
+  "private_key_id": "b5d60babc482e489be60f80c6bd537c547af09e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp01t670XHTn1i\nV/+Bd70VkQxlPqC2kk6zILNhBlZkQHFpssByYjUiG1WFAUnXgrByoXGyYzZz/eZd\nls730JRYFOaJhlHsvf29ew3k1j8G0VgbPdQ2rNTspl1Amv3vNOKbyJ6S22mX/IvT\nw3RsEB3REbVl5E2HRq3P5WAFVY9f2ofsr+fdX9NxAAIxoqyd2Bhx7iNEmCrcBeSe\nOgHgSsK3Cyrd8NQ7gPhNmlxamFnasWHPj+50dkwjIdpvSiROxeqbQE3Er3sbEEmT\n7SWFHnNVs0kGZAaSPVHXrqGCEOy9+Qq0IqO21EAOky2cvdtS95O9Q4tPPTDDl/rB\nMrtRloqxAgMBAAECggEAEYe0wLrkPA+ZF8a3pDik9w3y9pyBYHc30nvEqHZMAqs4\nSc3e2a/ThkLGECWy5qEh76NEpkJhg5Wo6u4/TQtl1LXLmlSYLlTqVV3XcFDBTsXb\nT2yRdFdg31DI/XtCTSfrYGNUIxqtCrhSArkBUopTWZp3XB419onQNU6bG9HaK+2q\nupRmgjGPa3uR2e+Zz27KVL8JyTVC/VJdusEsecj/RHPM80odAqOGivHS5ZeDYnBY\nhqbP3ZgvSlAia61dlsjvKT+6bZ4Asb7CMgHZpMkZEWq3+0guHM2ghGZloM3WDUTw\nkQBMEL/ivFWBilbpv2wxy58ZZmiUiefcbbL74I5zQQKBgQDifO2N2k1XB+DvoKl/\nKxoMpRdN5iu2MRXgYWpShvsPHvBTKEZWUS5Weu7bHyyBMdAjLCm8ZmkYvDAzFiRd\nO300ZHRi2CZFK6TF/e5f5/VE6J5Jx+8rKGj3RxtfnH1MiiEANygwXUswOwE+1of0\nTcOek+5jWH9J4p8piv0L6jvcWQKBgQC/9FBxwRLNp8mwT0z4DVdj4CmSy7WFVXos\n1lbY5phHullhQuOo1lwfoRVRCzH8r9pb2i5vV+ELMfy2rmnOo1P9nVojtiQV5IrP\nu4hXF3m23UDXNRDJ0UyG/XMNjc3LTOVBBUB+SMX4A/+aZI+8UnC5MGm9wqwUksaM\n9jQcofV2GQKBgQCXPj2UYJcM6yH2Yx9M4IeAsi4hwvalr5mgQO0zNxgoPMzXeymd\nMpDzBxzCDss1awJGupMUUH8WGXVGaB7Yc4Vkm0BtUVIdFsvtu2iXetp6rawmMPEx\nrMaLelx5OJMjrYnkDvEzetle18g5IiGfrt5W4wpqJQq7WC5ZG4tnjX9z4QKBgHhb\n89jv7B9hlthjUOq0StiIJOkzrBT3nMzidMA6Dr/i+8o9i8xA5LC8a0ZO08ASb8Nq\nUfVkz+oaJNBTGmsEBFUgxfVgbs3/aH6Koxmg0aO0pcSLNISnJOn7n5mfEavpAlK7\nvU2xydgSgcHITkwSETY9QgBHQWkBA1g9xD0z3Fp5AoGAReXW5swzcVVweIR+0byp\n2BRh+Bm+WK554VH0KArAW37cdOYFUdqtCIVtiGW4WsK8K9mTOrU+wECz6eSCkAeE\nVO71YusEPQw6xtj6hoWamH+EJMOSgXwCr1Ue7Fo1sK+sdGTxBgmS4aiZVdODPOHd\nEwHKVGU6GSZFlK+3HHS5Wq4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "MailParser@crack-meridian-254715.iam.gserviceaccount.com",
+  "client_id": "111140841258395831312",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/MailParser%40crack-meridian-254715.iam.gserviceaccount.com"
+}
